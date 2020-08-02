@@ -1,0 +1,30 @@
+body{background-color: #a6a6a6;}
+
+nav{
+  text-decoration: none;
+  padding: 15px;
+  background-color:#0d0d0d;
+  color:white;
+}
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+a.nav{
+  text-decoration: none;
+  color:white;padding: 15px;
+}
+
+a.nav:hover{
+  background-color: red;
+
+}
+
+a.nav:active{
+  background-color: red;
+}
+nav
+.active{
+  background-color: red;
+}

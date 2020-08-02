@@ -1,0 +1,35 @@
+.content{
+  border: 1px solid blue;
+  padding: 20px;
+  overflow:hidden;
+  max-width: device-width;
+  margin-left:10px;
+}
+
+.contentimg{
+  width: 300px;
+  float: left;
+}
+.clearfix{
+  overflow: auto;
+}
+
+.textdecor{
+  text-decoration: none;
+  color:white;
+}
+.right{
+background-color:#0099ff;
+float:right;
+margin-right: 0px;
+
+width:30%;
+padding:15px;
+margin-top:7px;
+text-align:center;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+}
